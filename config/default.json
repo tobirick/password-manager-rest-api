@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://localhost/password-manager",
+    "port": "3000"
+  }
